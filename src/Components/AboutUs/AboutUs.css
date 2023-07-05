@@ -1,0 +1,17 @@
+.aboutus {
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.aboutus h4, .aboutus h3 {
+     font-weight: 600;
+     margin-bottom: 40px;
+     font-size: 28px;
+}
+.aboutus p:first-child {
+    margin-top: 40px;
+}

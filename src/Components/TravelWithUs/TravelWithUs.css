@@ -1,0 +1,29 @@
+.travelWithUs {
+    background-color: #1869E8;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100%;
+}
+.travelWithUs h4, .travelWithUs h6 {
+    color: white;
+}
+
+.travelWithUs h4 {
+    font-weight: 600;
+    font-size: 28px;
+}
+.travelWithUs h6 {
+    font-size: 20px;
+}
+.travel-us-guide {
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+     h4 {
+        font-size: 22px !important;
+    }
+    h6 {
+        font-size: 16px !important;
+    }
+}
